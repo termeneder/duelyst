@@ -7,15 +7,243 @@
         <attack>3</attack>
         <health>3</health>
         <cardText>Grow: +1/+1</cardText>
+        <rarity>BASIC</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Elucidator</name>
+        <cost>4</cost>
+        <attack>5</attack>
+        <health>4</health>
+        <cardText>Rush. Opening Gambit: Deal 4 damage to your General.</cardText>
+        <rarity>RARE</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Grimrock</name>
+        <cost>4</cost>
+        <attack>3</attack>
+        <health>4</health>
+        <cardText>Grow: +2/+2</cardText>
+        <rarity>COMMON</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Kolossus</name>
+        <cost>5</cost>
+        <attack>1</attack>
+        <health>7</health>
+        <cardText>Grow: +4/+4</cardText>
+        <rarity>COMMON</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Kujata</name>
+        <cost>2</cost>
+        <attack>2</attack>
+        <health>2</health>
+        <cardText>Your minions cost 1 less to summon and take 1 damage when summoned from your action bar.</cardText>
+        <rarity>EPIC</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Makantor Warbeast</name>
+        <cost>6</cost>
+        <attack>4</attack>
+        <health>4</health>
+        <cardText>Frenzy, Rush</cardText>
+        <rarity>EPIC</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Phalanxar</name>
+        <cost>3</cost>
+        <attack>7</attack>
+        <health>2</health>
+        <rarity>BASIC</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Primordial Gazer</name>
+        <cost>3</cost>
+        <attack>2</attack>
+        <health>2</health>
+        <cardText>Opening Gambit: Give a nearby friendly minion +2/+2.</cardText>
+        <rarity>BASIC</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Silithar Elder</name>
+        <cost>7</cost>
+        <attack>8</attack>
+        <health>8</health>
+        <cardText>Rebirth. At the end of your turn, summon a Silithar Elder Egg in a random nearby space.</cardText>
+        <rarity>LEGENDARY</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Spirit Harvester</name>
+        <cost>5</cost>
+        <attack>5</attack>
+        <health>5</health>
+        <cardText>At the end of your turn, deal 2 damage to ALL other minions.</cardText>
+        <rarity>RARE</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Unstable Leviathan</name>
+        <cost>7</cost>
+        <attack>11</attack>
+        <health>11</health>
+        <cardText>At the start of your turn, deal 4 damage to a random minion or General.</cardText>
+        <rarity>RARE</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Veteran Silithar</name>
+        <cost>4</cost>
+        <attack>4</attack>
+        <health>5</health>
+        <cardText>Rebirth</cardText>
+        <rarity>COMMON</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Vindicator</name>
+        <cost>3</cost>
+        <attack>1</attack>
+        <health>3</health>
+        <cardText>Rush. The first friendly minion summoned nearby this minion each turn gains Rush.</cardText>
+        <rarity>LEGENDARY</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <minion>
+        <name>Young Silithar</name>
+        <cost>2</cost>
+        <attack>2</attack>
+        <health>3</health>
+        <cardText>Rebirth</cardText>
         <rarity>COMMON</rarity>
         <classType>MAGMAR</classType>
     </minion>
     <!-- Spells -->
     <!-- Magmar Spells -->
     <spell>
+        <name>Amplification</name>
+        <cost>0</cost>
+        <cardText>Give a friendly damaged minion +3 Attack.</cardText>
+        <rarity>COMMON</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Bounded Lifeforce</name>
+        <cost>7</cost>
+        <cardText>Your General becomes 10/10.</cardText>
+        <rarity>EPIC</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Chrysalis Burst</name>
+        <cost>4</cost>
+        <cardText>Summon a random Egg in 4 random spaces on the battlefield.</cardText>
+        <rarity>LEGENDARY</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Dampening Wave</name>
+        <cost>0</cost>
+        <cardText>Choose an enemy minion. It can no longer counterattack.</cardText>
+        <rarity>BASIC</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Diretide Frenzy</name>
+        <cost>2</cost>
+        <cardText>Give a friendly minion +1 Attack and Frenzy.</cardText>
+        <rarity>COMMON</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Earth Sphere</name>
+        <cost>4</cost>
+        <cardText>Restore 8 Health to your General.</cardText>
+        <rarity>COMMON</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Egg Morph</name>
+        <cost>4</cost>
+        <cardText>Turn a non-Egg minion into an Egg, or hatch an Egg.</cardText>
+        <rarity>RARE</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Flash Reincarnation</name>
+        <cost>0</cost>
+        <cardText>The next minion you summon this turn costs 2 less and takes 2 damage.</cardText>
+        <rarity>RARE</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Fractal Replication</name>
+        <cost>6</cost>
+        <cardText>Summon two copies of a friendly minion nearby that minion.</cardText>
+        <rarity>EPIC</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
         <name>Greater Fortitude</name>
         <cost>1</cost>
         <cardText>Give a friendly minion +2/+2.</cardText>
+        <rarity>BASIC</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Kinetic Equilibrium</name>
+        <cost>3</cost>
+        <cardText>Deal 2 damage to ALL minions in a 3x3 area. Friendly minions in the area gain +2 Attack.</cardText>
+        <rarity>RARE</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Mana Burn</name>
+        <cost>2</cost>
+        <cardText>Deal 2 damage to each minion on or next to a mana tile</cardText>
+        <rarity>BASIC</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Metamorphosis</name>
+        <cost>5</cost>
+        <cardText>Transform all enemy minions into 1/1 Magma with no abilities until the end of your opponent's next turn.</cardText>
+        <rarity>LEGENDARY</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Mind Steal</name>
+        <cost>4</cost>
+        <cardText>Steal a random minion from your opponent's deck and summon it.</cardText>
+        <rarity>EPIC</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Natural Selection</name>
+        <cost>2</cost>
+        <cardText>Destroy ANY minion with the lowest Attack or tied for the lowest Attack.</cardText>
+        <rarity>BASIC</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Plasma Storm</name>
+        <cost>5</cost>
+        <cardText>Destroy ALL minions with 3 or less Attack.</cardText>
+        <rarity>BASIC</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <spell>
+        <name>Tremor</name>
+        <cost>2</cost>
+        <cardText>Stun enemy minions in a 2x2 area.</cardText>
         <rarity>COMMON</rarity>
         <classType>MAGMAR</classType>
     </spell>
@@ -25,7 +253,7 @@
         <name>Adamantite Claws</name>
         <cost>4</cost>
         <cardText>Your General gains +4 attack.</cardText>
-        <rarity>COMMON</rarity>
+        <rarity>BASIC</rarity>
         <classType>MAGMAR</classType>
     </artifact>
     <artifact>

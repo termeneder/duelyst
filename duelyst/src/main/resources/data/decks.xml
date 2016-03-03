@@ -7,6 +7,21 @@
             <card amount="3">Greater Fortitude</card>
             <card amount="3">Earth Walker</card>
             <card amount="3">Adamantite Claws</card>
+            <card amount="1">Flash Reincarnation</card>
+            <card amount="2">Diretide Frenzy</card>
+            <card amount="3">Ephemeral Shroud</card>
+            <card amount="3">Healing Mystic</card>
+            <card amount="3">Natural Selection</card>
+            <card amount="3">Kinetic Equilibrium</card>
+            <card amount="3">Grimrock</card>
+            <card amount="2">Veteran Silithar</card>
+            <card amount="1">Dancing Blades</card>
+            <card amount="1">Kolossus</card>
+            <card amount="3">Plasma Storm</card>
+            <card amount="2">Stormmetal Golem</card>
+            <card amount="1">Grailmaster</card>
+            <card amount="1">Paddo</card>
+            <card amount="1">Red Synja</card>
         </cards>
     </deck>
 </decks>

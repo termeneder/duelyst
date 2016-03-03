@@ -1,0 +1,45 @@
+<cards>
+    <!-- Minions -->
+    <!-- Magmar Minions-->
+    <minion>
+        <name>Earth Walker</name>
+        <cost>3</cost>
+        <attack>3</attack>
+        <health>3</health>
+        <cardText>Grow: +1/+1</cardText>
+        <rarity>COMMON</rarity>
+        <classType>MAGMAR</classType>
+    </minion>
+    <!-- Spells -->
+    <!-- Magmar Spells -->
+    <spell>
+        <name>Greater Fortitude</name>
+        <cost>1</cost>
+        <cardText>Give a friendly minion +2/+2.</cardText>
+        <rarity>COMMON</rarity>
+        <classType>MAGMAR</classType>
+    </spell>
+    <!-- Artifacts -->
+    <!-- Magmar Artifacts -->
+    <artifact>
+        <name>Adamantite Claws</name>
+        <cost>4</cost>
+        <cardText>Your General gains +4 attack.</cardText>
+        <rarity>COMMON</rarity>
+        <classType>MAGMAR</classType>
+    </artifact>
+    <artifact>
+        <name>Iridium Scale</name>
+        <cost>2</cost>
+        <cardText>Your General gains Frenzy.</cardText>
+        <rarity>EPIC</rarity>
+        <classType>MAGMAR</classType>
+    </artifact>
+    <artifact>
+        <name>Twin Fang</name>
+        <cost>3</cost>
+        <cardText>Whenever a friendly minion or your General takes damage, your General gains +2 Attack.</cardText>
+        <rarity>LEGENDARY</rarity>
+        <classType>MAGMAR</classType>
+    </artifact>
+</cards>

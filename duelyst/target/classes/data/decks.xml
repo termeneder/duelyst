@@ -1,0 +1,12 @@
+<decks>
+    <deck>
+        <name>Magmar Heap</name>
+        <version>1.0</version>
+        <classType>MAGMAR</classType>
+        <cards>
+            <card amount="3">Greater Fortitude</card>
+            <card amount="3">Earth Walker</card>
+            <card amount="3">Adamantite Claws</card>
+        </cards>
+    </deck>
+</decks>
